@@ -41,7 +41,6 @@ const Homepage = () => {
               </button>
             )}
             onSuccess={login}
-            onFailure={login}
             isSignedIn={true}
             cookiePolicy={"single_host_origin"}
           />

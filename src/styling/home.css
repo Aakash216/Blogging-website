@@ -50,3 +50,223 @@
   font-weight: 500;
   cursor: pointer;
 }
+
+@media screen and (max-width: 1060px) {
+  .home__page {
+    width: 60%;
+  }
+  .login__message > p {
+    width: 65%;
+  }
+}
+
+@media screen and (max-width: 971px) {
+  .home__page {
+    width: 65%;
+  }
+  .login__message > p {
+    width: 70%;
+  }
+}
+@media screen and (max-width: 897px) {
+  .home__page {
+    width: 70%;
+  }
+  .login__message > p {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 833px) {
+  .home__page {
+    width: 75%;
+  }
+  .login__message > h2 {
+    font-size: 60px;
+    margin: 0;
+  }
+  
+  .login__message > h1 {
+    font-size: 70px;
+    width: 85%;
+    font-weight: 850;
+  }
+  
+  .login__message > p {
+    width: 65%;
+    font-size: 13px;
+  }
+  
+  .login__button {
+    width: 250px;
+    font-size: 14px;
+  }
+  }
+
+  @media screen and (max-width: 761px) {
+    .home__page {
+      width: 80%;
+    }
+    .login__message > h2 {
+      font-size: 57px;
+      margin: 0;
+    }
+    
+    .login__message > h1 {
+      font-size: 66px;
+      width: 88%;
+      font-weight: 800;
+    }
+    
+    .login__message > p {
+      width: 67%;
+      font-size: 13px;
+    }
+    
+    .login__button {
+      width: 230px;
+      font-size: 13.5px;
+    }
+    }
+  
+  
+    @media screen and (max-width: 660px) {
+      
+      .login__message > p {
+        width: 70%;
+        font-size: 13px;
+      }
+      
+      }
+    
+
+    @media screen and (max-width: 634px) {
+      .home__page {
+        width: 85%;
+      }
+      .login__message > h2 {
+        font-size: 52px;
+      }
+      
+      .login__message > h1 {
+        font-size: 62px;
+        width: 90%;
+        font-weight: 780;
+      }
+      
+      .login__message > p {
+        width: 70%;
+        font-size: 12.5px;
+      }
+      
+      .login__button {
+        width: 200px;
+        font-size: 13px;
+      }
+      }
+    
+      @media screen and (max-width: 544px) {
+        .home__page {
+          width: 85%;
+        }
+        .login__message > h2 {
+          font-size: 45px;
+        }
+        
+        .login__message > h1 {
+          font-size: 55px;
+          width: 95%;
+        }
+        
+        .login__message > p {
+          width: 75%;
+          line-height: 1em;
+          font-size: 12px;
+        }
+        
+        .login__button {
+          width: 180px;
+          font-size: 12.5px;
+        }
+        }
+      
+        @media screen and (max-width: 510px) {
+          .login__message > p {
+            width: 80%;
+            line-height: 1em;
+            font-size: 12px;
+          }
+          }
+
+      @media screen and (max-width: 544px) {
+        .home__page {
+          width: 92%;
+        }
+        .login__message > h2 {
+          font-size: 35px;
+        }
+        
+        .login__message > h1 {
+          font-size: 45px;
+          width: 90%;
+        }
+        
+        .login__message > p {
+          width: 73%;
+          line-height: 1em;
+          font-size: 10px;
+        }
+        
+        .login__button {
+          width: 150px;
+          font-size: 11px;
+        }
+        }
+        
+        
+      
+        @media screen and (max-width: 366px) {
+          .home__page {
+            width: 97%;
+          }
+          .login__message > h2 {
+            font-size: 25px;
+          }
+          
+          .login__message > h1 {
+            font-size: 43px;
+            width: 95%;
+          }
+          
+          .login__message > p {
+            width: 75c%;
+            line-height: 1em;
+            font-size: 9.5px;
+          }
+          
+          .login__button {
+            width: 140px;
+            font-size: 10px;
+          }
+          }
+          
+            
+      
+      
+      
+    
+    
+    
+    
+  
+  
+  
+
+
+
+
+
+
+
+
+
